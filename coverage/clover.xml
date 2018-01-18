@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1516260821540" clover="3.2.0">
-  <project timestamp="1516260821541" name="All files">
+<coverage generated="1516267608539" clover="3.2.0">
+  <project timestamp="1516267608539" name="All files">
     <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1">
-      <file name="sum.js" path="/home/ubuntu/Jest-Framework-Test/src/_test_/sum.js">
+      <file name="func.js" path="/home/ubuntu/Jest-Framework-BB/src/__test__/func.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="2" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
