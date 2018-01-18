@@ -1,0 +1,20 @@
+{
+  "name": "jst-framework-test",
+  "version": "1.0.0",
+  "description": "This is main JEST FRAMEWORK file for API development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "js",
+    "api",
+    "bender"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.1.1"
+  }
+}
